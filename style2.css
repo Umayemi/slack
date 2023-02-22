@@ -1,0 +1,357 @@
+@media screen and (max-width:960px) {
+header{
+        width: 100%;
+    }
+#section1{
+    padding-bottom: 0;
+}
+#toggle{
+    display: block;
+    color: white;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+#logo-head{
+    width: 25px;
+    height: 25px;
+    margin-left: 25%;
+    margin-top: -5px;
+}
+#search{
+    margin-left: 50%;
+    margin-top: 15px;
+    color: white;
+}
+nav{
+    display: none;
+}
+#sign-in{
+    display: none;
+}
+#talk{
+    display: none;
+}
+#try{
+    display: none;
+}
+#sub{
+    display: block;
+    
+}
+#sub1{
+    width: 90%;
+    margin-left: 0;
+    text-align: center;
+    margin: auto;  
+}
+h2{
+    font-size: 40px;
+    line-height: 40px;
+}
+.para1{
+    font-size: 18px;
+    margin-top: -20px;
+}
+.para2{
+    display: none;
+}
+#sign-up{
+  display: NONE;
+}
+#google{
+    display: NONE;
+}
+#IOS{
+    display: block;
+    width: 100%;
+}
+#sub2{
+    width: 100%;
+    margin-left: 0;
+    margin-top: 30px; 
+    overflow: hidden;
+ }
+#section2{
+    display: block;
+}
+#COMPANIES{
+    display: inline;
+    width: 90%;
+    margin-left: 0;
+}
+#airbnb-logo{
+    width: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#logo-nasa{
+    width: 70px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: -10px;
+}
+#uber{
+    width: 80px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+#target-logo{
+    width: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+#logo-nyt{
+    width: 70%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+#etsy{
+    width: 90px;
+    margin-left: 45%;
+}
+#mobile-video{
+    display: block;
+    width: 90%;
+    margin-top: 50px;
+}
+#mobile{
+    width: 100%;
+}
+#sec2-sub1{
+    display: none;
+}
+#sec2-sub2{
+    width: 90%;
+    margin-left: 0px;
+    padding-left: 10px;
+}
+#sub-section1{
+    width: 100%;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+#text{
+    width: 90%;
+    padding-left: 10px;
+}
+#sub-image{
+    display: none;
+   
+}
+#mobile-video1{
+    display: block;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#sub-section2{
+    display: block;
+}
+h3{
+    font-size: 40px;
+}
+#sub-section2{
+    display: block;
+    width: 100%;
+}
+
+#sub-image2{
+    display: none;
+}
+#text2{
+    width: 90%;
+    margin-left: 0;
+    padding-left: 10px;
+}
+#section3{
+  display: block; 
+}
+#sec3-head{
+    font-size: 30px;
+    width: 100%;
+}
+.sec3-para1{
+    text-align: center;
+    margin-top: -10px;
+    font-size: 18px;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 10px;
+}
+#sec3-buttons{
+    display: block;
+    margin-left: 0;
+    width: 90%;
+    margin: auto;
+}
+#meet{
+    width: 100%;
+}
+#sales{
+    width: 100%;
+    margin-top: 20px;
+}
+#percentage{
+    display: block;
+    margin-left: 0;
+}
+.sub-perce{
+  margin-left: 0%;
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+}
+.perce-head{
+   margin: auto;
+   text-align: center;
+   margin-top: 50px;
+}
+.perce-para{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-right: 0;
+}
+#customer{
+    display: block;
+}
+#customer-video{
+    width: 90%;
+    max-height: 200px;
+}
+#video4{
+    height: 300px;
+    width: 650px;
+    position: absolute;
+   ;
+     
+}
+#customers-quote{
+    width: 90%;  
+    margin-left: 0px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 10px;
+   
+}
+#quote{
+    font-size: larger;
+}
+.para-down{
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: 14px;
+}
+
+#section4{
+    display: block;
+}
+#sec4-head{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#boxes{
+    overflow:scroll;
+    margin-right: 45px;
+    margin-left: 45px;
+    
+}
+
+
+#hq-buttons{
+    display: block;
+    margin-left: 0px;
+}
+#button1{
+    margin-left: 0;
+    width: 90%;
+}
+#button2{
+    margin-left: 0;
+    width: 90%;
+    margin-top: 20px;
+}
+
+#head5{
+    font-size: 30px;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+footer{
+    display:block ;
+    padding-left: 20px;
+    width: 90%;
+    margin-left: 0;
+    padding-bottom: 30px;
+}
+#logo-foot{
+    width: 60px;
+    height: 60px;
+    margin-top: 0px;
+}
+#list{
+    display: block;
+}
+.listing{
+    display: none;
+}
+#l1{
+    display: block;
+    margin-left: 0;
+}
+#foot-sub{
+    display: block;
+}
+#l2{
+    display: block;
+}
+.ul{
+    margin-left: -70px;
+}
+.dlei{
+    display: block;
+}
+#social-media{
+    margin-left: 0;
+    display: flex;
+}
+#copyright{
+    width: 100%;
+}
+#list-select{
+    float: right;
+    display: block;   
+}
+.listing-head{
+    font-size: 12px;
+}
+.fjfj{
+    padding-bottom: 15px;
+    opacity: 0.8;
+}
+.fjfjk{
+    padding-top: -10px;
+}
+#earth{
+    display: none;
+}
+#social-media{
+    display: block;
+}
+#yous{
+    margin-left: -25%;
+}
+.social{
+    margin-left: 20%;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+}
